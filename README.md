@@ -3,10 +3,10 @@ Bu layihənin məqsədi hücum texnikalarını, zərərli fəaliyyətləri və �
 hazırlanması və yoxlanılmasıdır.
 
 # Layihənin Məqsədləri
--Sıfırdan fərdi aşkarlama qaydalarının hazırlanması.
--Hücum ssenarilərinin simulyasiyası və aşkarlama imkanlarının yoxlanılması.
--Aşkarlama nəticələrinin təhlili və yanlış pozitivlərin araşdırılması.
--Aşkarlama məntiqinin optimallaşdırılması və dəqiqliyin artırılması.
+- Sıfırdan fərdi aşkarlama qaydalarının hazırlanması.
+- Hücum ssenarilərinin simulyasiyası və aşkarlama imkanlarının yoxlanılması.
+- Aşkarlama nəticələrinin təhlili və yanlış pozitivlərin araşdırılması.
+- Aşkarlama məntiqinin optimallaşdırılması və dəqiqliyin artırılması.
 
 # Əsas İstiqamətlər
 -Təhdidlərin aşkarlanması
