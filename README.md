@@ -9,7 +9,7 @@ hazırlanması və yoxlanılmasıdır.
 - Aşkarlama məntiqinin optimallaşdırılması və dəqiqliyin artırılması.
 
 # Əsas İstiqamətlər
--Təhdidlərin aşkarlanması
--Aşkarlama qaydalarının hazırlanması
--Hücumların simulyasiyası
--Yanlış pozitivlərin təhlili
+- Təhdidlərin aşkarlanması
+- Aşkarlama qaydalarının hazırlanması
+- Hücumların simulyasiyası
+- Yanlış pozitivlərin təhlili
