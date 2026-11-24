@@ -1,8 +1,8 @@
-# Müstəqil Detection Engineering Layihəsi
+# Müstəqil Detection Rule Layihəsi
 Bu layihənin məqsədi hücum texnikalarını, zərərli fəaliyyətləri və şübhəli sistem davranışlarını müəyyən etmək üçün fərdi detection rule qaydalarının
 hazırlanması və yoxlanılmasıdır.
 
-# Layihənin Məqsədləri
+# Layihənin Məqsədi
 - Sıfırdan fərdi aşkarlama qaydalarının hazırlanması.
 - Hücum ssenarilərinin simulyasiyası və aşkarlama imkanlarının yoxlanılması.
 - Aşkarlama nəticələrinin təhlili və yanlış pozitivlərin araşdırılması.
